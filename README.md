@@ -1,1 +1,1 @@
-# ai-powered-image-caption-generation
+# Ai-powered-image-caption-generation
