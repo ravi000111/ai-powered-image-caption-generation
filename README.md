@@ -18,7 +18,6 @@ This project implements an **AI-powered image caption generator** that automatic
 
 **Input:**
 
-![Example Image](examples/dog.jpg)
+![Example Image](examples/Screenshot%202025-05-02%20184206.png)
 
-**Output:**
 
